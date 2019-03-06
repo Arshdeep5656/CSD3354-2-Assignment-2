@@ -219,7 +219,10 @@ namespace DelegateAndEvents
                 myDelegate();
             }
         }
-
+        public delegate void MyDelegate();
+        public class DelegateExercises : MyDelegate
+        {
+        }
     }
 
 
