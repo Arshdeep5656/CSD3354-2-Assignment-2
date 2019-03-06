@@ -24,7 +24,15 @@ namespace DelegateAndEvents
 
         
     }
+    // Student Name - Arshdeep Singh Bawa, Student ID - C0715425
+    // CSD3354 Section 2
+    // Assignment 2
+    // March 06,2019
 
+    // Student Name - Prabhjot Kaur Jhajj, Student ID - C0707193
+    // CSD3354 Section 2
+    // Assignment 2
+    // March 06,2019
 
     class Program
     {
